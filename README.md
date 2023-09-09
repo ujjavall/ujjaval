@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ujjaval and I'm a self learned developer from gujrat</h2>
+<h2 align="left">Hi 👋! My name is Ujjaval and I'm a self learned developer</h2>
 
 ###
 
